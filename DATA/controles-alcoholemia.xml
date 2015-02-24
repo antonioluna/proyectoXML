@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<kml
+    xmlns="http://earth.google.com/kml/2.0">
+    <Folder>
+        <Placemark>
+            <name>C_Al BBS ES AGE N-651 Pontedeume (A Coruña)</name>
+            <Point>
+                <coordinates>-8.16834,43.413,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES demonejro AC-122</name>
+            <Point>
+                <coordinates>-8.22464,43.44588,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES demonejro AC-564</name>
+            <Point>
+                <coordinates>-8.1576,43.41469,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES demonejro AC-123 entrada de Ares</name>
+            <Point>
+                <coordinates>-8.23797,43.43288,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES AGE PO-225 Alba (Pontevedra)</name>
+            <Point>
+                <coordinates>-8.64405,42.46491,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FAUS AG-4.1/VG-4.1</name>
+            <Point>
+                <coordinates>-8.81306,42.41194,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FAUS PO-308</name>
+            <Point>
+                <coordinates>-8.79332,42.39833,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LECH</name>
+            <Point>
+                <coordinates>-8.72692,42.28746,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LECH Entrada Via Rapida</name>
+            <Point>
+                <coordinates>-8.66243,42.29176,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LECH Entrada En Marin</name>
+            <Point>
+                <coordinates>-8.68769,42.40103,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES lynagh Ctra. Pontevedra - Santiago de Compostela</name>
+            <Point>
+                <coordinates>-8.6397,42.45705,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES manuelkle PO-2903 Redondela</name>
+            <Point>
+                <coordinates>-8.61098,42.2997,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES espinetegg C-451 PK-20.9 Mula (MU)</name>
+            <Point>
+                <coordinates>-1.45943,38.04166,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES archenero MU 522 Archena Murcia</name>
+            <Point>
+                <coordinates>-1.27368,38.11982,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST COYO Alhama de Murcia</name>
+            <Point>
+                <coordinates>-1.42472,37.85096,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST COYO N-340a Gines Campos</name>
+            <Point>
+                <coordinates>-1.4039,37.85815,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MOOR Red.Via Mu-602 Alhama De Murcia</name>
+            <Point>
+                <coordinates>-1.42049,37.8442,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES archenero MU-513 Abaran Murcia</name>
+            <Point>
+                <coordinates>-1.38063,38.20667,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Plaza de Juan XXIII Murcia</name>
+            <Point>
+                <coordinates>-1.12571,37.99166,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951</name>
+            <Point>
+                <coordinates>-1.08649,37.99906,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Avda. de la Region de Murcia</name>
+            <Point>
+                <coordinates>-1.09008,37.9836,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Camino de Tiñosa de Los Dolores</name>
+            <Point>
+                <coordinates>-1.09763,37.97007,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Ctra. de Murcia de Torreaguera</name>
+            <Point>
+                <coordinates>-1.06287,37.97831,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ANTONIO951 RM-302</name>
+            <Point>
+                <coordinates>-1.08806,37.96341,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES anlimo Av del Ciclista Mariano Rojas Murcia</name>
+            <Point>
+                <coordinates>-1.14798,38.00187,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Ctra.  de Alicante en El Esparragal</name>
+            <Point>
+                <coordinates>-1.08588,38.04278,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951</name>
+            <Point>
+                <coordinates>-1.14376,38.02472,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Ctra. San Javier de Los Ramos</name>
+            <Point>
+                <coordinates>-1.02508,37.9987,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951</name>
+            <Point>
+                <coordinates>-1.1161,37.99463,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Avda de Juan Carlos I de Zeneta</name>
+            <Point>
+                <coordinates>-1.0112,38.00323,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Avda. de Juan Carlos I de Santo Angel</name>
+            <Point>
+                <coordinates>-1.11914,37.94342,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Avda. del Progreso</name>
+            <Point>
+                <coordinates>-1.11623,37.95457,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Avda. Miguel Indurain</name>
+            <Point>
+                <coordinates>-1.10753,37.98383,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Calle Francisco Jose Vicente Ortega</name>
+            <Point>
+                <coordinates>-1.03082,38.01036,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 N-301</name>
+            <Point>
+                <coordinates>-1.15927,38.01736,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ANTONIO951 Camino Viejo de Casillas</name>
+            <Point>
+                <coordinates>-1.10786,38.00402,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 Ronda de Levante</name>
+            <Point>
+                <coordinates>-1.12967,37.99259,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ANTONIO951 Avda. Canalejas</name>
+            <Point>
+                <coordinates>-1.13123,37.98191,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ANTONIO951 Ctra. de Alicante</name>
+            <Point>
+                <coordinates>-1.11695,37.99116,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ANTONIO951 Gran Via Escultor Francisco Salzillo</name>
+            <Point>
+                <coordinates>-1.13213,37.98625,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 N-301a PK-389.3 Murcia</name>
+            <Point>
+                <coordinates>-1.16211,38.02162,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES defensor Passeig de la Zona Franca. 230 Barcelona</name>
+            <Point>
+                <coordinates>2.1373,41.36278,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NAPO Av Diagonal 693 Barcelona</name>
+            <Point>
+                <coordinates>2.1071,41.38298,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NAPO Av Doctor Marañón 27 Barcelona</name>
+            <Point>
+                <coordinates>2.11232,41.38357,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ARENAS C-33 13 Dir. Norte La Llagosta Barcelona @</name>
+            <Point>
+                <coordinates>2.20485,41.51029,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ARENAS C-33 Dir. Sur. La Llagosta Barcelona @</name>
+            <Point>
+                <coordinates>2.20359,41.50972,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CARL Av. Pallaresa 163 Santa Coloma de Gramenet Barcelona</name>
+            <Point>
+                <coordinates>2.20887,41.45825,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CARL Rambla del Fondo 36 Santa Coloma de Gramenet Barcelona</name>
+            <Point>
+                <coordinates>2.21788,41.45141,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI Av. Pallaresa 76 Santa Coloma de Gramanet Barcelona</name>
+            <Point>
+                <coordinates>2.20391,41.45398,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI Carrer Luxemburg Badalona Barcelona</name>
+            <Point>
+                <coordinates>2.22639,41.4592,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST DEY Carrer de Llinars del Vallès 14 Barcelona</name>
+            <Point>
+                <coordinates>2.20692,41.43641,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JORG Passeig de Pujades Barcelona</name>
+            <Point>
+                <coordinates>2.18276,41.38835,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Carrer Almogàvers 79 Barcelona</name>
+            <Point>
+                <coordinates>2.18719,41.39497,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES jose-m-m Ronda del Litoral Barcelona</name>
+            <Point>
+                <coordinates>2.17196,41.3666,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Av Electricitat 4 Rubí Barcelona</name>
+            <Point>
+                <coordinates>2.03087,41.47449,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR C-1413a Sant Cugat del Vallès Barcelona</name>
+            <Point>
+                <coordinates>2.02025,41.46672,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Carrer Llobregós 93 Barcelona</name>
+            <Point>
+                <coordinates>2.15815,41.42532,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Rambla del Carmel Barcelona</name>
+            <Point>
+                <coordinates>2.15648,41.42986,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MART Ctra. de Sentmenat - Pintor Fortuny Polinyà Barcelona</name>
+            <Point>
+                <coordinates>2.15986,41.54772,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MART Ctra. Sabadell Santa Perpètua de Mogoda Barcelona</name>
+            <Point>
+                <coordinates>2.16318,41.5339,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MART Ctra. Sentmenat-Granja Carreras Polinyà Barcelona</name>
+            <Point>
+                <coordinates>2.16452,41.54216,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI Carrer Felip Canalias Baix Llobregat SL Molins de Rei Barcelona</name>
+            <Point>
+                <coordinates>2.02827,41.39485,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI Carrer Silici 13 Cornellá Barcelona</name>
+            <Point>
+                <coordinates>2.09091,41.35629,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI Ctra. de Gràcia a Manresa Terrassa Barcelona</name>
+            <Point>
+                <coordinates>2.03501,41.53287,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST SAIN Ctra. de Matadepera 183 Terrassa Barcelona</name>
+            <Point>
+                <coordinates>2.0171,41.57532,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST SOFL Av de Font i Sagua 1-3 Terrassa Barcelona</name>
+            <Point>
+                <coordinates>2.03667,41.58177,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST SOFL Ctra. Montcada 661 Terrassa Barcelona</name>
+            <Point>
+                <coordinates>2.03921,41.55702,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES Rob_Cole Avinguda Navarra Badalona Barcelona</name>
+            <Point>
+                <coordinates>2.25221,41.45817,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES Rob_Cole Carrer Occitània 24 Badalona Barcelona</name>
+            <Point>
+                <coordinates>2.25685,41.45916,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR Carrer Ferralla 2 Castellbisbal Barcelona</name>
+            <Point>
+                <coordinates>1.97141,41.46799,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST XAVI Av Constitució 304 Castelldefels Barcelona</name>
+            <Point>
+                <coordinates>1.96538,41.26974,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST XAVI Passeig Pitort 20 Castelldefels Barcelona</name>
+            <Point>
+                <coordinates>1.96932,41.26908,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI Urban. les Terrasses de Sitge Barcelona</name>
+            <Point>
+                <coordinates>1.92812,41.26397,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES anominos CV-197 Alcano Castellón dir Grao</name>
+            <Point>
+                <coordinates>-0.03046,39.97413,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BERE CV-18/CV-183</name>
+            <Point>
+                <coordinates>-0.05502,39.94421,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BERE CV-1870</name>
+            <Point>
+                <coordinates>-0.07969,39.9536,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MAURO CV-149 Benicasim Castellón</name>
+            <Point>
+                <coordinates>0.01603,40.02595,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MAURO N-340</name>
+            <Point>
+                <coordinates>-0.00796,40.02635,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES areas57 Av Foz del Miñor Baiona Pontevedra</name>
+            <Point>
+                <coordinates>-8.81469,42.11528,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST EPIL PO-331</name>
+            <Point>
+                <coordinates>-8.74222,42.12778,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LECH</name>
+            <Point>
+                <coordinates>-8.77026,42.2632,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES zkfgh Rúa Mestre Chané 20 Vigo Pontevedra</name>
+            <Point>
+                <coordinates>-8.70394,42.24134,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-5.75319,43.39127,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-5.73816,43.38219,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-5.75771,43.38312,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST AMADOR AI-81 Aviles</name>
+            <Point>
+                <coordinates>-5.89897,43.55194,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST AMADOR Avda. Lugo. 126 Aviles</name>
+            <Point>
+                <coordinates>-5.93234,43.57407,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST AMADOR Avda. Lugo-Calle Cid Campeador Aviles</name>
+            <Point>
+                <coordinates>-5.9372,43.57452,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST AMADOR GJ-81 Gijon</name>
+            <Point>
+                <coordinates>-5.6808,43.53387,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FERNANDO N-634 Km.399</name>
+            <Point>
+                <coordinates>-5.78739,43.37998,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LUISMI A-66 Km.20.500 Dir. La Coruña</name>
+            <Point>
+                <coordinates>-5.80095,43.43234,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MIER AS-242 La Reguerona</name>
+            <Point>
+                <coordinates>-5.77926,43.2301,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES mazinger 23-28 Rue de la Cardalino Cassis. Francia</name>
+            <Point>
+                <coordinates>-5.54059,43.23568,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES mazinger AS-17. Pola de Laviana. Asturias</name>
+            <Point>
+                <coordinates>-5.55557,43.2385,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES mazinger Calle Pelayo. 19 Pola de Laviana. Asturias</name>
+            <Point>
+                <coordinates>-5.56787,43.24977,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES SATGAR Antigua Ctera AS-17 Langreo</name>
+            <Point>
+                <coordinates>-5.67153,43.29154,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES SATGAR Antigua Ctera AS-17 San Martín del Rey Aurelio</name>
+            <Point>
+                <coordinates>-5.62559,43.28492,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES SATGAR AS-117 115 San Martín del Rey Aurelio</name>
+            <Point>
+                <coordinates>-5.61306,43.27244,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES SATGAR Calle del Mina 6 San Martín del Rey Aurelio @</name>
+            <Point>
+                <coordinates>-5.61254,43.27517,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES SATGAR Antigua Ctera AS-17 Langreo @</name>
+            <Point>
+                <coordinates>-5.65209,43.28565,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES SATGAR Antigua Ctera AS-17 Laviana</name>
+            <Point>
+                <coordinates>-5.55636,43.23562,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES SATGAR Antigua Ctera AS-244 Langreo</name>
+            <Point>
+                <coordinates>-5.73128,43.32652,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES SATGAR Antigua Ctera AS-244 Langreo</name>
+            <Point>
+                <coordinates>-5.7171,43.32216,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-3.8447,40.32452,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST VILLAFORMER Ambas dir</name>
+            <Point>
+                <coordinates>-3.75544,40.3499,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-3.8266,40.30071,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-3.86034,40.32745,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TACK</name>
+            <Point>
+                <coordinates>-3.81998,40.34273,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TACK</name>
+            <Point>
+                <coordinates>-3.81437,40.33945,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-3.76172,40.27493,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-3.7524,40.27306,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-3.92483,40.30164,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LEO Ctra Villavic-Mostoles</name>
+            <Point>
+                <coordinates>-3.88625,40.33511,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-3.76475,40.2526,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-3.82831,40.12503,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A-5.</name>
+            <Point>
+                <coordinates>-4.02712,40.27921,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ATIL M-503 A M-40</name>
+            <Point>
+                <coordinates>-3.83435,40.42396,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MIES</name>
+            <Point>
+                <coordinates>-3.79835,40.43501,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MIES 2</name>
+            <Point>
+                <coordinates>-3.78229,40.44044,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST AUXT Plaza Av. Doctor Manuel Jarabo</name>
+            <Point>
+                <coordinates>-3.58861,40.21538,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST DEME Corregidor Diego Valderrabano 13</name>
+            <Point>
+                <coordinates>-3.66065,40.40903,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST DEME Doctor Garcia Tapia. 23</name>
+            <Point>
+                <coordinates>-3.65877,40.41397,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST Dir. Torrejon de la Calzada</name>
+            <Point>
+                <coordinates>-3.79441,40.20868,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST GIL</name>
+            <Point>
+                <coordinates>-3.62417,40.38167,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST GIL</name>
+            <Point>
+                <coordinates>-3.62028,40.3761,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JOLU</name>
+            <Point>
+                <coordinates>-3.674,40.19527,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LEO Getafe</name>
+            <Point>
+                <coordinates>-3.70161,40.30449,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LEO San Cristobal</name>
+            <Point>
+                <coordinates>-3.69309,40.34507,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR San Dalmacio</name>
+            <Point>
+                <coordinates>-3.6977,40.3395,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Avda Juan Borbon</name>
+            <Point>
+                <coordinates>-3.7104,40.3121,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Avda Poblados</name>
+            <Point>
+                <coordinates>-3.7453,40.37426,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TACK</name>
+            <Point>
+                <coordinates>-3.67967,40.36938,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TACK</name>
+            <Point>
+                <coordinates>-3.6589,40.36831,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Avda Real De Pinto</name>
+            <Point>
+                <coordinates>-3.7084,40.3394,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Joaquin Costa</name>
+            <Point>
+                <coordinates>-3.69153,40.44638,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Sor Angela De La Cruz</name>
+            <Point>
+                <coordinates>-3.6913,40.4592,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MIES</name>
+            <Point>
+                <coordinates>-3.81206,40.45595,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NCTF N-404 N-IV</name>
+            <Point>
+                <coordinates>-3.66485,40.16411,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST POLUZA A1 Salida 16</name>
+            <Point>
+                <coordinates>-3.63892,40.53224,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RIV</name>
+            <Point>
+                <coordinates>-3.63056,40.37639,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST Salida M-407</name>
+            <Point>
+                <coordinates>-3.86976,40.21202,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST SKAS Jose Abascal - Castellana</name>
+            <Point>
+                <coordinates>-3.69095,40.43829,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST SKAS Majadahonda - Pozuelo</name>
+            <Point>
+                <coordinates>-3.8612,40.45687,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TACK dir Villaviciosa</name>
+            <Point>
+                <coordinates>-3.82154,40.35674,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST VILLAFORMER</name>
+            <Point>
+                <coordinates>-3.76659,40.36739,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST VILLAFORMER</name>
+            <Point>
+                <coordinates>-3.7714,40.36544,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TACK Embajadores</name>
+            <Point>
+                <coordinates>-3.6999,40.40171,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TACK Glta De Embajadores</name>
+            <Point>
+                <coordinates>-3.70265,40.40529,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TACK Ronda De Toledo</name>
+            <Point>
+                <coordinates>-3.70873,40.40609,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TPOI Dir. Navalcarnero</name>
+            <Point>
+                <coordinates>-3.92249,40.21342,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST VILLAFORMER A-42 Dir.Madrid</name>
+            <Point>
+                <coordinates>-3.72407,40.33867,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-4.10433,40.19355,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-4.11103,40.16218,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-4.12357,40.15979,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-4.17255,40.15874,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-4.03695,40.10113,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-4.12183,40.09652,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A-5</name>
+            <Point>
+                <coordinates>-4.10262,40.20709,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CM-4003</name>
+            <Point>
+                <coordinates>-4.11758,40.08441,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TO-4111-V</name>
+            <Point>
+                <coordinates>-4.02748,40.10734,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TO-4111-V dir Chozas de Canales</name>
+            <Point>
+                <coordinates>-4.0478,40.0959,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES jenito TO-4111-V Arcicóllar</name>
+            <Point>
+                <coordinates>-4.11491,40.07421,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A-491 Control Policial en Rotonda</name>
+            <Point>
+                <coordinates>-6.19582,36.61246,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST OPSI</name>
+            <Point>
+                <coordinates>-6.20189,36.56025,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST Puerto Real</name>
+            <Point>
+                <coordinates>-6.19291,36.53336,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST AMAT San Agustin De Guadalix</name>
+            <Point>
+                <coordinates>-3.61639,40.67889,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Avda Aaronxu</name>
+            <Point>
+                <coordinates>-3.60313,40.6898,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Avda Madrid</name>
+            <Point>
+                <coordinates>-3.61234,40.67262,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ANDOMO Avda. Alcalde Luis Uruñuela</name>
+            <Point>
+                <coordinates>-5.92833,37.40389,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JALA</name>
+            <Point>
+                <coordinates>-5.96972,37.33527,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MGM</name>
+            <Point>
+                <coordinates>-5.98672,37.51391,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES isigpr Calle Pasadilla de Barranco Dos Hermanas Sevilla</name>
+            <Point>
+                <coordinates>-5.96349,37.32162,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ANTONIO951 N-332 Km.45</name>
+            <Point>
+                <coordinates>-0.76315,37.89171,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ANTONIO951 N-332 San Pedro del Pinatar</name>
+            <Point>
+                <coordinates>-0.7863,37.84526,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST F-30 Los Alcazares</name>
+            <Point>
+                <coordinates>-0.87365,37.73861,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FLOR CV-910</name>
+            <Point>
+                <coordinates>-0.84932,38.08944,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FLOR CV-914-740</name>
+            <Point>
+                <coordinates>-0.77154,38.0987,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FLOR CV-910</name>
+            <Point>
+                <coordinates>-0.8595,38.08937,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ARBU N-I Dir.Madrid</name>
+            <Point>
+                <coordinates>-2.11167,43.09646,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST YERA Calle De Nafarroa 54</name>
+            <Point>
+                <coordinates>-2.1623,43.28577,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST YERA N-634 Avda De Aita Lertxundi Guipuzcoa</name>
+            <Point>
+                <coordinates>-2.12855,43.27441,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST YERA Calle Lrita</name>
+            <Point>
+                <coordinates>-2.15654,43.28216,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST YERA N-634 Calle De Nafarroa</name>
+            <Point>
+                <coordinates>-2.16965,43.28599,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NENE C-1415 km 72 la Roca del Vallés Barcelona</name>
+            <Point>
+                <coordinates>2.33059,41.58923,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI B-143 Palau-solità i Plegamans Barcelona</name>
+            <Point>
+                <coordinates>2.18061,41.59888,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR C-17 Centelles Barcelona</name>
+            <Point>
+                <coordinates>2.24499,41.77519,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST B041</name>
+            <Point>
+                <coordinates>-4.54312,36.60685,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES stier Acceso a autovía A-7 @</name>
+            <Point>
+                <coordinates>-4.48879,36.64688,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES stier N-340 Ctera Cadiz @</name>
+            <Point>
+                <coordinates>-4.48925,36.64723,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST B041</name>
+            <Point>
+                <coordinates>-4.54985,36.58111,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CFLO Rincon De La Victoria</name>
+            <Point>
+                <coordinates>-4.29878,36.72338,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES stier A-7</name>
+            <Point>
+                <coordinates>-4.50877,36.63723,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BHST</name>
+            <Point>
+                <coordinates>-2.44772,42.4642,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BHST N-232</name>
+            <Point>
+                <coordinates>-2.39875,42.45916,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BHST N-232</name>
+            <Point>
+                <coordinates>-2.35367,42.45029,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BHST</name>
+            <Point>
+                <coordinates>-2.4503,42.46414,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BHST A-13 PK.5</name>
+            <Point>
+                <coordinates>-2.41556,42.49056,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CARM Pol.Cantabria 2</name>
+            <Point>
+                <coordinates>-2.41624,42.47209,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BHST Calle chile 15</name>
+            <Point>
+                <coordinates>-2.45371,42.46261,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BHST N-232</name>
+            <Point>
+                <coordinates>-2.34161,42.44963,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BSHT</name>
+            <Point>
+                <coordinates>-2.35022,42.44971,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas Ctr de Logroño Mendavia</name>
+            <Point>
+                <coordinates>-2.21094,42.45022,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR B-224 Vallbona Anoia Barcelona</name>
+            <Point>
+                <coordinates>1.69353,41.52188,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR Barri Can Aguilera 1 Piera Barcelona</name>
+            <Point>
+                <coordinates>1.75002,41.52624,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR C-15 Vilanova del Camí Barcelona</name>
+            <Point>
+                <coordinates>1.66879,41.57989,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR N-IIa 560 Òdena Barcelona @</name>
+            <Point>
+                <coordinates>1.65719,41.5771,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR C-1412 Els Prats de Rei Barcelona</name>
+            <Point>
+                <coordinates>1.54027,41.70241,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR C-1412 Jorba Barcelona</name>
+            <Point>
+                <coordinates>1.5392,41.60419,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR Carrer de Cal Rida Òdena Barcelona</name>
+            <Point>
+                <coordinates>1.63988,41.57846,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR Costa C-244 d Igualada-Sitge Barcelona</name>
+            <Point>
+                <coordinates>1.6463,41.57157,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR N-IIa Dir. Lleida Igualada Barcelona</name>
+            <Point>
+                <coordinates>1.61689,41.58903,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BR N-IIa Òdena Barcelona @</name>
+            <Point>
+                <coordinates>1.6487,41.57804,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES esriki N-340 Santa Margarida i els Monjos (Barcelona)</name>
+            <Point>
+                <coordinates>1.66808,41.32423,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES jose-m-m Camì de la Creu Barcelona</name>
+            <Point>
+                <coordinates>1.8286,41.39083,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CHUCHI CA-258</name>
+            <Point>
+                <coordinates>-3.47085,43.37488,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RMTHX Barrio San Pantaleón 27 Arnuero Cantabria</name>
+            <Point>
+                <coordinates>-3.5343,43.46491,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RMTHX C-629</name>
+            <Point>
+                <coordinates>-3.47974,43.46066,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RMTHX N-634</name>
+            <Point>
+                <coordinates>-3.46662,43.39307,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST COPI Av. De La Industria</name>
+            <Point>
+                <coordinates>-0.83696,41.67148,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TONIWAN</name>
+            <Point>
+                <coordinates>-0.92028,41.61639,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TONIWAN</name>
+            <Point>
+                <coordinates>-0.91177,41.6126,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TONIWAN</name>
+            <Point>
+                <coordinates>-0.94316,41.59282,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TONIWAN Ctera Villamayor Zaragoza</name>
+            <Point>
+                <coordinates>-0.8114,41.6719,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES javierzgz av. septimo arte ZARAGOZA</name>
+            <Point>
+                <coordinates>-0.92802,41.61991,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CRX - Arca - O Pino</name>
+            <Point>
+                <coordinates>-8.35788,42.91083,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NANO N-525</name>
+            <Point>
+                <coordinates>-8.52998,42.85423,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NANO N-525</name>
+            <Point>
+                <coordinates>-8.47743,42.80685,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST DEME Cantalejo dir Cuellar</name>
+            <Point>
+                <coordinates>-3.91004,41.25676,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST DEME CL-112 Cantalejo-Segovia</name>
+            <Point>
+                <coordinates>-3.93409,41.26239,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST DEME CL-603 Segovia</name>
+            <Point>
+                <coordinates>-3.95606,41.39304,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST DEME Sepulveda SG-232 Cruce SG-2323</name>
+            <Point>
+                <coordinates>-3.75943,41.29425,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FERNANDO AS-16 Rotonda Peñaflor-Grado-San Pelayo</name>
+            <Point>
+                <coordinates>-6.05106,43.39827,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FERNANDO AS-16 Rotonda Soto del Barco a Pravia</name>
+            <Point>
+                <coordinates>-6.07514,43.52107,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FERNANDO CU-1 Cudillero a Luarca</name>
+            <Point>
+                <coordinates>-6.15033,43.55735,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FERNANDO N-632a Km.119 Ronda Muros de Nalon</name>
+            <Point>
+                <coordinates>-6.11126,43.54061,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LUISMI N-632 Soto del Barco</name>
+            <Point>
+                <coordinates>-6.0705,43.53418,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LUISMI AS-16 Km.7</name>
+            <Point>
+                <coordinates>-6.10273,43.4918,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LUISMI N-632 Piedras Blancas y Soto del Barco</name>
+            <Point>
+                <coordinates>-5.96641,43.56545,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FL0R Ctra. De Elche</name>
+            <Point>
+                <coordinates>-0.56699,38.19905,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FLOR Av. Fernando Perez Ojeda</name>
+            <Point>
+                <coordinates>-0.55891,38.19099,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FLOR CV-910</name>
+            <Point>
+                <coordinates>-0.6655,38.09625,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FLOR N-340</name>
+            <Point>
+                <coordinates>-0.72373,38.25986,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES garciaaa N-332 88 dir Alicante Santa Pola</name>
+            <Point>
+                <coordinates>-0.56158,38.20329,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES pacohue Acceso a la A-77</name>
+            <Point>
+                <coordinates>-0.52278,38.38534,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JLMC N-340 Dir.Valencia-Barcelona.Benicarlo.</name>
+            <Point>
+                <coordinates>0.42699,40.42376,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JRVB Camino Volta 36 Peñíscola Castellón</name>
+            <Point>
+                <coordinates>0.40861,40.39333,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JRVB Ctera Valencia-Barna Vinaroz Castellón</name>
+            <Point>
+                <coordinates>0.46472,40.46861,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JUAN GABRIEL En rotonda Salida Ontinyent-Valencia</name>
+            <Point>
+                <coordinates>-0.5537,38.97811,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JUANGABRIEL CV-81</name>
+            <Point>
+                <coordinates>-0.56612,38.83264,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JUANGABRIEL Dir. Aielo Malferit-Ontinyent</name>
+            <Point>
+                <coordinates>-0.57652,38.91007,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Av de Lleida Bellpuig Lleida</name>
+            <Point>
+                <coordinates>1.01484,41.63168,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR N-II 488 Golmés Lleida</name>
+            <Point>
+                <coordinates>0.91416,41.63002,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI C-53 Vilagrassa Lleida</name>
+            <Point>
+                <coordinates>1.09641,41.65382,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST PONS LP-3322 Vila-sana Lleida</name>
+            <Point>
+                <coordinates>0.89838,41.64453,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST PONS LV-3025 Preixens Lleida</name>
+            <Point>
+                <coordinates>1.04756,41.79163,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR TV-3454 Deltebre Tarragona</name>
+            <Point>
+                <coordinates>0.61375,40.71235,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST SERR C-12 Amposta Tarragona</name>
+            <Point>
+                <coordinates>0.5643,40.70351,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST SERR C-12 Amposta Tarragona</name>
+            <Point>
+                <coordinates>0.5657,40.70062,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST SERR Carrer Nàpols Amposta Tarragona</name>
+            <Point>
+                <coordinates>0.55047,40.70483,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST SERR TV-3408 Amposta Tarragona</name>
+            <Point>
+                <coordinates>0.58773,40.70336,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI Av Salou 169 Reus Tarragona</name>
+            <Point>
+                <coordinates>1.12018,41.13642,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI C-14 Salou Tarragona</name>
+            <Point>
+                <coordinates>1.13039,41.08979,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI Plaça d Europa 5 Salou Tarragona</name>
+            <Point>
+                <coordinates>1.14378,41.07688,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST QUINITO</name>
+            <Point>
+                <coordinates>-3.19833,39.3925,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST QUINITO</name>
+            <Point>
+                <coordinates>-3.19861,39.39611,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST QUINITO</name>
+            <Point>
+                <coordinates>-3.2062,39.39972,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST QUINITO N-420</name>
+            <Point>
+                <coordinates>-3.20861,39.4,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST QUINITO N-420</name>
+            <Point>
+                <coordinates>-3.22889,39.38778,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST QUINITO N-420</name>
+            <Point>
+                <coordinates>-3.25417,39.38528,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA A-311</name>
+            <Point>
+                <coordinates>-3.81699,37.80686,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA dir Bailen-Jaen</name>
+            <Point>
+                <coordinates>-3.77265,37.8161,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA dir Bailen-Jaen E 902</name>
+            <Point>
+                <coordinates>-3.77676,37.80642,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA dir Jaen-Ubeda</name>
+            <Point>
+                <coordinates>-3.74741,37.77867,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA Dir. Jaen-Torrequebradilla</name>
+            <Point>
+                <coordinates>-3.7618,37.79461,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA Dir. Jaen-Torrequebradilla2</name>
+            <Point>
+                <coordinates>-3.77038,37.78738,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA Granada-Ubeda N 323</name>
+            <Point>
+                <coordinates>-3.77778,37.79013,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES teteluis N-323a. Jaén. complejo Juleca</name>
+            <Point>
+                <coordinates>-3.78212,37.90862,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAUL</name>
+            <Point>
+                <coordinates>-3.33712,40.63266,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAUL Calle Ancha 2 Torrejón del Rey</name>
+            <Point>
+                <coordinates>-3.33845,40.6471,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES kamal A-2</name>
+            <Point>
+                <coordinates>-3.1805,40.62695,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES kamal Cruce 4 caminos Guadalajara</name>
+            <Point>
+                <coordinates>-3.15753,40.62211,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES raulillo88 Cabanillas del Campo</name>
+            <Point>
+                <coordinates>-3.20314,40.62104,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RODRIGUEZ Calle Arenal. Perillo (Oleiros-La Coruña)</name>
+            <Point>
+                <coordinates>-8.37116,43.332,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES olaloka</name>
+            <Point>
+                <coordinates>-8.38461,43.33029,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES olaloka AC 173 Oleiros</name>
+            <Point>
+                <coordinates>-8.37843,43.33386,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RUBEN</name>
+            <Point>
+                <coordinates>-5.58117,39.87337,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RUBEN EX-118</name>
+            <Point>
+                <coordinates>-5.51293,39.89099,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RUBEN</name>
+            <Point>
+                <coordinates>-5.5467,39.90167,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RUBEN @</name>
+            <Point>
+                <coordinates>-5.61404,40.02682,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RUBEN EX-203</name>
+            <Point>
+                <coordinates>-5.74821,40.05781,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TIVO Santovenia de Pisuerga</name>
+            <Point>
+                <coordinates>-4.69468,41.67808,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST TIVO Santovenia de Pisuerga Valladolid</name>
+            <Point>
+                <coordinates>-4.6871,41.68671,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES honi VA-20 31A Valladolid</name>
+            <Point>
+                <coordinates>-4.70958,41.62878,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES honi VA-20 Valladolid</name>
+            <Point>
+                <coordinates>-4.69455,41.65981,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES unilhexio Av de Medina del Campo</name>
+            <Point>
+                <coordinates>-4.74864,41.63365,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES unilhexio Av. de José Luis Arrese 13 Valladolid</name>
+            <Point>
+                <coordinates>-4.73839,41.65067,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES unilhexio Calle M.Santo Domingo Silos 14D Valladolid</name>
+            <Point>
+                <coordinates>-4.74422,41.64497,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas @</name>
+            <Point>
+                <coordinates>-6.37375,39.47576,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas @</name>
+            <Point>
+                <coordinates>-6.37809,39.47211,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas Av de Hernán Cortés 5 Caceres @</name>
+            <Point>
+                <coordinates>-6.37889,39.47402,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas Av de la Hispanidad 37-39 Cáceres @</name>
+            <Point>
+                <coordinates>-6.37346,39.4612,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas Av de Ruta de la Plata 16 Cáceres</name>
+            <Point>
+                <coordinates>-6.38782,39.47106,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas Calle del Botánico Rivas Mateo @</name>
+            <Point>
+                <coordinates>-6.38013,39.47502,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas EX-206 5 Caceres</name>
+            <Point>
+                <coordinates>-6.37845,39.46776,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ANDR Tavernes De La Valldigna</name>
+            <Point>
+                <coordinates>-0.25166,39.07694,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ICA73 CV-670 PK-5.2</name>
+            <Point>
+                <coordinates>-0.13545,38.94411,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ICA73 CV-670 PK-2.8</name>
+            <Point>
+                <coordinates>-0.15054,38.96217,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST COYO MU-602 Almazara</name>
+            <Point>
+                <coordinates>-1.40931,37.83224,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES Mazinguer C-55 carretera de Manresa Abrera Barcelona</name>
+            <Point>
+                <coordinates>1.89791,41.52144,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR C-17 64 Malla Barcelona</name>
+            <Point>
+                <coordinates>2.24117,41.88221,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR C-17 Tona Barcelona</name>
+            <Point>
+                <coordinates>2.23752,41.85487,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES alameda Ctera C-3318 Benidorm</name>
+            <Point>
+                <coordinates>-0.13432,38.55378,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES averelldalton AP-2/E-90 Km 41.5 Pina de Ebro Zaragoza</name>
+            <Point>
+                <coordinates>-0.46827,41.52651,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES caurelin N-640 Rotonda de Porto de abaixo Lugo</name>
+            <Point>
+                <coordinates>-7.05803,43.47307,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CristianDlx S. Uble1-4 Vereda Norte Ctera Valencia Alicante Albal</name>
+            <Point>
+                <coordinates>-0.39647,39.38688,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-3.80509,40.12254,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST</name>
+            <Point>
+                <coordinates>-6.54454,43.1945,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A-293 La Barca De Vejer</name>
+            <Point>
+                <coordinates>-5.95694,36.25389,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST A951 RM-11</name>
+            <Point>
+                <coordinates>-1.60015,37.41313,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ALFO A-436</name>
+            <Point>
+                <coordinates>-5.54885,37.65096,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ARRA N-I</name>
+            <Point>
+                <coordinates>-1.77806,43.34083,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ARRA N-I</name>
+            <Point>
+                <coordinates>-1.91278,43.31694,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST B041 Entrada San Pedro Desde Ronda</name>
+            <Point>
+                <coordinates>-4.99289,36.49449,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BOIN</name>
+            <Point>
+                <coordinates>-3.35476,39.00336,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST BRAV CM-42 Salida 27</name>
+            <Point>
+                <coordinates>-3.78113,39.65997,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CARC Avenida Del Pais Valenciano</name>
+            <Point>
+                <coordinates>-0.45653,39.48951,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CARL Avda.de la Costa Brava. Malgrat del Mar</name>
+            <Point>
+                <coordinates>2.72771,41.64238,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CARM AP15 Autop. de Navarra @</name>
+            <Point>
+                <coordinates>-1.74831,42.86806,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CARM AP15 Autop. de Navarra @</name>
+            <Point>
+                <coordinates>-1.7484,42.86708,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CHEM A-376 Ronda-San Pedro Alcantara</name>
+            <Point>
+                <coordinates>-5.1486,36.72432,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CHEM Entrada Ronda Este</name>
+            <Point>
+                <coordinates>-5.14869,36.75356,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CM-5150</name>
+            <Point>
+                <coordinates>-5.18478,39.9263,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST Corrige ENKO N-634</name>
+            <Point>
+                <coordinates>-2.40078,43.22846,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST CRX N-640 Km 206.1 - A Estrada-Pontevedra.CLAV</name>
+            <Point>
+                <coordinates>-8.50725,42.6865,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST DINA CM-412</name>
+            <Point>
+                <coordinates>-3.40806,38.76722,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST EDU95</name>
+            <Point>
+                <coordinates>-4.95106,36.49429,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST EFER33 N-634</name>
+            <Point>
+                <coordinates>-3.06091,43.31767,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ENEK Calle Francia 41 Vitoria Gasteiz</name>
+            <Point>
+                <coordinates>-2.6699,42.8518,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ENEK Vitoria Gamarra</name>
+            <Point>
+                <coordinates>-2.65621,42.87878,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FAUS N-540 Dir. Lugo</name>
+            <Point>
+                <coordinates>-7.73906,42.83959,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FL0R N-332 La Font Campello</name>
+            <Point>
+                <coordinates>-0.41503,38.41769,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FMSG</name>
+            <Point>
+                <coordinates>-3.53147,39.45736,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST FMSG Autovia dir Ctra. Ruide</name>
+            <Point>
+                <coordinates>-3.0788,39.12252,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST GORD CM-4110</name>
+            <Point>
+                <coordinates>-4.14579,38.7058,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST HOTE CM-400.</name>
+            <Point>
+                <coordinates>-2.99528,39.16222,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JAB. @</name>
+            <Point>
+                <coordinates>-5.65226,40.95121,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JANT AV-923</name>
+            <Point>
+                <coordinates>-5.06093,40.22151,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST JUAN GABRIEL N-620</name>
+            <Point>
+                <coordinates>-6.78469,40.58999,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST LOLE CL-631 - Toreno</name>
+            <Point>
+                <coordinates>-6.52973,42.69345,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR A-22 Binéfar Huesca</name>
+            <Point>
+                <coordinates>0.26333,41.86567,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR Aut del Mediterráneo 236 Tarragona</name>
+            <Point>
+                <coordinates>1.35922,41.14799,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR C-14 59 Ponts Lleida</name>
+            <Point>
+                <coordinates>1.16557,41.89421,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANR TV-2127 El Vendrell Tarragona</name>
+            <Point>
+                <coordinates>1.53793,41.19597,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANU AC-550</name>
+            <Point>
+                <coordinates>-9.04167,42.78837,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MANU AC-550</name>
+            <Point>
+                <coordinates>-9.05777,42.76139,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MGM A-8002</name>
+            <Point>
+                <coordinates>-5.99977,37.66082,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MIER Salida Pola de Lena</name>
+            <Point>
+                <coordinates>-5.82571,43.16531,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST MIGUEL Milagros. 53. Control</name>
+            <Point>
+                <coordinates>-3.70497,41.5736,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST N-340 Control Policial en Rotonda</name>
+            <Point>
+                <coordinates>-6.10549,36.35486,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST N-632 JO33 Villaviciosa</name>
+            <Point>
+                <coordinates>-5.44223,43.48702,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI B-402 La Pobla de Lillet Barcelona</name>
+            <Point>
+                <coordinates>1.95962,42.23991,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST NOMI N-II Tordera Barcelona</name>
+            <Point>
+                <coordinates>2.73087,41.70219,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST PADI</name>
+            <Point>
+                <coordinates>-4.66113,37.59002,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST Puerta Toledo</name>
+            <Point>
+                <coordinates>-3.99657,39.94489,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST R25V Carrer Talaia 39 Peguera Islas Baleares</name>
+            <Point>
+                <coordinates>2.44722,39.54361,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA</name>
+            <Point>
+                <coordinates>-3.56581,37.40645,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA A-311</name>
+            <Point>
+                <coordinates>-4.04617,38.01124,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA A-319 Cazorla-Torreperogil</name>
+            <Point>
+                <coordinates>-3.1323,37.91869,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA dir Jaen Ubeda A-316</name>
+            <Point>
+                <coordinates>-3.4136,38.01334,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA dir Ubeda A-316</name>
+            <Point>
+                <coordinates>-3.38669,38.01382,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RAFA Dir. Javalquinto-Bailen</name>
+            <Point>
+                <coordinates>-3.77741,38.02378,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST RUBI N-322a</name>
+            <Point>
+                <coordinates>-1.92232,38.96936,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST WING Sanabria. Cruce Castellanos</name>
+            <Point>
+                <coordinates>-6.62117,42.0717,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST WING Sanabria. Cruce Sampil</name>
+            <Point>
+                <coordinates>-6.62377,42.07958,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST YERA N-634 P.K. 27.9</name>
+            <Point>
+                <coordinates>-2.24886,43.29706,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES CUST ZENO</name>
+            <Point>
+                <coordinates>-7.21822,37.21089,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES focus16v Calle de Don Santos Arenas Hormigos</name>
+            <Point>
+                <coordinates>-4.44959,40.09716,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES focus16v Ctera Ávila-Toledo Maqueda</name>
+            <Point>
+                <coordinates>-4.37122,40.06145,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES focus16v Ctera Ávila-Toledo Maqueda</name>
+            <Point>
+                <coordinates>-4.36888,40.05968,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES Gotego CL-615 Palencia</name>
+            <Point>
+                <coordinates>-4.5589,42.03606,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES Gotego Palencia</name>
+            <Point>
+                <coordinates>-4.54882,42.0254,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES isigpr Calle Leonardo de Vinci Los Palacios y Villafranca Sevilla</name>
+            <Point>
+                <coordinates>-5.92567,37.16725,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES jenito Calle de la Atauta San Esteban de Gormaz</name>
+            <Point>
+                <coordinates>-3.2067,41.57125,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES jenito Ctera de Monforte a Castro Caldelas</name>
+            <Point>
+                <coordinates>-7.43991,42.38093,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES jenito N-110 Cerezo de Abajo</name>
+            <Point>
+                <coordinates>-3.5861,41.23341,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES joru169 CL-623 96 León</name>
+            <Point>
+                <coordinates>-5.58488,42.59269,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES josemarias Ctera del Alcázar 18 Cuenca</name>
+            <Point>
+                <coordinates>-2.14286,40.05072,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES kikonuri dir salida de Huesca</name>
+            <Point>
+                <coordinates>-0.42558,42.14863,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES pelagito Crtra del Aeropuerto Córdoba</name>
+            <Point>
+                <coordinates>-4.8207,37.86543,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas</name>
+            <Point>
+                <coordinates>-6.07946,40.04491,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES tencas Ctera Trujillo-Valencia de Alcántara Aliseda @</name>
+            <Point>
+                <coordinates>-6.70347,39.42769,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>C_Al BBS ES wilkoazul</name>
+            <Point>
+                <coordinates>-3.38944,40.26213,0</coordinates>
+            </Point>
+        </Placemark>
+    </Folder>
+</kml>
