@@ -33,5 +33,3 @@ dicohol = {}
 
 for x in alcoholrt[0]:
     dicohol[x[0].text] = x[1][0].text.replace(",0", '').split(",")
-
-print dicohol
