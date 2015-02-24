@@ -32,6 +32,6 @@ with open("./DATA/radares-fijos.xml", "r")as fijos:
 dicohol = {}
 
 for x in alcoholrt[0]:
-    dicohol[x[0].text] = x[1][0].text.split(",")
+    dicohol[x[0].text] = x[1][0].text.replace(",0", '').split(",")
 
 print dicohol
