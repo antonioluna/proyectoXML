@@ -73,7 +73,7 @@ with open("./DATA/PENINSULA.xml", "r")as peninsula:
 #                                                        #
 ##########################################################
 
-dicpen = ""
+#poblaciones = {comunidad:{provincia:{poblacion:[lat,lon]}}}
 
 ##########################################################
 #                                                        #
