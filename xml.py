@@ -10,20 +10,26 @@ from lxml import etree
 ##########################################################
 
 
-def iguales(valor):
+#Funcion para los xml con nombres iguales
+
+def distintos(valor):
     diccionario = {}
     for x in valor[0]:
-        diccionario[x[0].text] = map(float, x[1][0].text.replace(",0", '')\
-        .split(","))
-        return diccionario
+        diccionario[x[0].text] = map(float, x[1][0].text.replace(",0", '')
+.split(","))
+    return diccionario
 
 
-#def distintos(valor):
-    #diccionario2 = {}
-    #for x in valor[0]:
-        #diccionario2[x[0].text] = map(float, x[1][0].text.replace(",0", '')\
-        #.split(","))
-        #print diccionario2
+#Función para los xml con nombres distintos
+
+def iguales(valor):
+    contador = 0
+    diccionario = {}
+    for x in valor[0]:
+        contador = contador + 1
+        diccionario[x[0].text + " " + str(contador)] = map(float, x[1][0].text
+        .replace(",0", '').split(","))
+    return diccionario
 
 ##########################################################
 #                                                        #
@@ -63,20 +69,13 @@ with open("./DATA/PENINSULA.xml", "r")as peninsula:
 
 #prueba diccionario del xml "alcohol"
 
-dicohol = {}
-dicurvas = iguales(alcoholrt)
+dicohol = distintos(alcoholrt)
+dicurvas = iguales(curvasroot)
 dicnegro = {}
 dicamu = {}
 dicfijo = {}
 
-#for x in alcoholrt[0]:
-    #dicohol[x[0].text] = map(float, x[1][0].text.replace(",0", '').split(","))
-
-#for x in curvasroot[0]:
-    #dicurvas[x[0].text] = map(float, x[1][0].text.replace(",0", '').split(","))
-
-
-print dicurvas
+print dicohol
 
 #for z in dicohol:
     #print max(dicohol[z])
