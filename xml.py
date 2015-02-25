@@ -10,7 +10,7 @@ from lxml import etree
 ##########################################################
 
 
-#Funcion para los xml con nombres iguales
+#Funcion para los xml con nombres distintos
 
 def distintos(valor):
     diccionario = {}
@@ -20,7 +20,7 @@ def distintos(valor):
     return diccionario
 
 
-#Función para los xml con nombres distintos
+#Función para los xml con nombres iguales
 
 def iguales(valor):
     contador = 0
