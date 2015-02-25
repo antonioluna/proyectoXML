@@ -67,15 +67,25 @@ with open("./DATA/PENINSULA.xml", "r")as peninsula:
     peninsular = etree.parse(peninsula)
     peninsularoot = peninsular.getroot()
 
-#prueba diccionario del xml "alcohol"
+##########################################################
+#                                                        #
+#         Obtención de datos de la península             #
+#                                                        #
+##########################################################
+
+dicpen = ""
+
+##########################################################
+#                                                        #
+#                Variables de los xml                    #
+#                                                        #
+##########################################################
 
 dicohol = distintos(alcoholrt)
 dicurvas = iguales(curvasroot)
-dicnegro = {}
-dicamu = {}
-dicfijo = {}
-
-print dicohol
+dicnegro = iguales(negrosroot)
+dicamu = distintos(camufladosroot)
+dicfijo = distintos(fijosroot)
 
 #for z in dicohol:
     #print max(dicohol[z])
