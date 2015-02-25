@@ -45,6 +45,11 @@ with open("./DATA/PENINSULA.xml", "r")as peninsula:
 dicohol = {}
 
 for x in alcoholrt[0]:
-    dicohol[x[0].text] = x[1][0].text.replace(",0", '').split(",")
+    dicohol[x[0].text] = map(float, x[1][0].text.replace(",0", '').split(","))
 
-print dicohol
+
+#print dicohol
+
+for z in dicohol:
+    print max(dicohol[z])
+    print min(dicohol[z])
