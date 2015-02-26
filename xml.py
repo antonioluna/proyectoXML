@@ -31,6 +31,25 @@ def iguales(valor):
         .replace(",0", '').split(","))
     return diccionario
 
+#Función que extrae las coordenadas de las poblaciones
+def gtroot(ruta, ruta2, ruta3):
+    pob = []
+    lat = []
+    lon = []
+    valores = {}
+    for x in peninsularoot.findall(ruta):
+        pob.append(x.text)
+    for y in peninsularoot.findall(ruta2):
+        lat.append(y.text)
+    for z in peninsularoot.findall(ruta3):
+        lon.append(z.text)
+    for w in range(len(pob)):
+        valores[pob[w]] = [lat[w], lon[w]]
+    #print len(pob)
+    #print len(coord)
+    #print len(valores)
+    return valores
+
 
 ##########################################################
 #                                                        #
@@ -76,21 +95,9 @@ with open("./DATA/PENINSULA.xml", "r") as peninsula:
 
 #poblaciones = {comunidad:{provincia:{poblacion:[lat,lon]}}}
 
-comunidades = {}
-provincias = {}
-poblaciones = {}
+print gtroot("CCAA/PROVINCIA/POBLACION", "CCAA/PROVINCIA/POBLACION/LATITUD",
+     "CCAA/PROVINCIA/POBLACION/LONGITUD")
 
-#for x in peninsularoot.findall("CCAA/"):
-    #print x.text
-
-#for y in peninsularoot:
-    #print y.text
-
-#for z in peninsularoot.findall("CCAA/PROVINCIA/POBLACION"):
-    #print z.text
-
-for o in peninsularoot.findall("CCAA/PROVINCIA/POBLACION/"):
-    print o
 
 ##########################################################
 #                                                        #
