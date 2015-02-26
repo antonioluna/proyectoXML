@@ -41,9 +41,9 @@ def gtroot(ruta, ruta2, ruta3):
     for x in peninsularoot.findall(ruta):
         pob.append(x.text)
     for y in peninsularoot.findall(ruta2):
-        lat.append(y.text)
+        lat.append(float(y.text.replace(",", ".")))
     for z in peninsularoot.findall(ruta3):
-        lon.append(z.text)
+        lon.append(float(z.text.replace(",", ".")))
     for w in range(len(pob)):
         valores[pob[w]] = [lat[w], lon[w]]
     return valores
@@ -59,6 +59,13 @@ def limites_provincia(nump):
             lonp.append(pueblos[pueb.text][1])
     limites = [max(latp), min(latp), max(lonp), min(lonp)]
     return limites
+
+
+def cantidad_pois(xml):
+    for poi in xml:
+        if xml[poi][1] <= limit[0] and xml[poi][1] >= limit[1]\
+         and xml[poi][0] <= limit[2] and xml[poi][0] >= limit[3]:
+            print poi
 
 
 ##########################################################
@@ -155,6 +162,9 @@ for pobl in peninsularoot[elec][elec2]:
     contador = contador + 1
     print str(contador) + " " + pobl.text
 
-#for z in dicohol:
-    #print max(dicohol[z])
-    #print min(dicohol[z])
+#print dicohol
+#cantidad_pois(dicfijo)
+
+print limit
+
+print pueblos
