@@ -153,11 +153,6 @@ for prov in peninsularoot[elec]:
 
 elec2 = int(raw_input("\nAhora, seleccione el número de provincia: "))
 
-
-print 'En la provincia de %s hay:\ni Puntos de controles de alcoholemia\ni \
-Puntos negros\ni Puntos de radar camuflados\ni Radares fijos\n'\
- % (peninsularoot[elec].text)
-
 limit = limites_provincia(elec, elec2)
 
 cant_control = cantidad_pois(dicohol)
@@ -166,14 +161,29 @@ cant_pnegros = cantidad_pois(dicnegro)
 cant_camu = cantidad_pois(dicamu)
 cant_rfijos = cantidad_pois(dicfijo)
 
+##########################################################
+#                                                        #
+#          Impresion en pantalla de cantidades           #
+#                                                        #
+##########################################################
 
-print cant_control
-print cant_curvas
-print cant_pnegros
-print cant_camu
-print cant_rfijos
+print 'En la provincia de %s hay:\n%i Puntos de controles de alcoholemia\n%i \
+Curvas peligrosas\n%i Puntos negros\n%i Puntos de radar camuflados\n\
+%i Radares fijos\n' % (peninsularoot[elec][elec2].text, len(cant_control),
+    len(cant_curvas), len(cant_pnegros), len(cant_camu), len(cant_rfijos))
 
-#contador = -1
-#for pobl in peninsularoot[elec][elec2]:
-    #contador = contador + 1
-    #print str(contador) + " " + pobl.text
+##########################################################
+#                                                        #
+#                Concretar población                     #
+#                                                        #
+##########################################################
+
+while True:
+    concretar = raw_input("¿Desea concretar una población? s-n: ")
+    print "\n"
+    if concretar == "y" or concretar == "Y":
+        contador = -1
+        for pobl in peninsularoot[elec][elec2]:
+            contador = contador + 1
+            print str(contador) + " " + pobl.text
+            break
