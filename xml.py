@@ -62,10 +62,12 @@ def limites_provincia(nump, nump2):
 
 
 def cantidad_pois(xml):
+    pois = {}
     for poi in xml:
         if xml[poi][1] <= limit[0] and xml[poi][1] >= limit[1]\
          and xml[poi][0] <= limit[2] and xml[poi][0] >= limit[3]:
-            print poi
+            pois[poi] = [xml[poi][1], xml[poi][0]]
+    return pois
 
 
 ##########################################################
@@ -158,12 +160,20 @@ Puntos negros\ni Puntos de radar camuflados\ni Radares fijos\n'\
 
 limit = limites_provincia(elec, elec2)
 
-contador = -1
-for pobl in peninsularoot[elec][elec2]:
-    contador = contador + 1
-    print str(contador) + " " + pobl.text
+cant_control = cantidad_pois(dicohol)
+cant_curvas = cantidad_pois(dicurvas)
+cant_pnegros = cantidad_pois(dicnegro)
+cant_camu = cantidad_pois(dicamu)
+cant_rfijos = cantidad_pois(dicfijo)
 
-#print dicohol
-#cantidad_pois(dicfijo)
 
-print limit
+print cant_control
+print cant_curvas
+print cant_pnegros
+print cant_camu
+print cant_rfijos
+
+#contador = -1
+#for pobl in peninsularoot[elec][elec2]:
+    #contador = contador + 1
+    #print str(contador) + " " + pobl.text
