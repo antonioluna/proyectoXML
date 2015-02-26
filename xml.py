@@ -31,6 +31,7 @@ def iguales(valor):
         .replace(",0", '').split(","))
     return diccionario
 
+
 ##########################################################
 #                                                        #
 #         Abrimos los ficheros con los datos             #
@@ -74,6 +75,15 @@ with open("./DATA/PENINSULA.xml", "r")as peninsula:
 ##########################################################
 
 #poblaciones = {comunidad:{provincia:{poblacion:[lat,lon]}}}
+
+provincias = {}
+ccaa = peninsularoot.findall("CCAA")
+prov = ccaa.getchildren()
+
+#for x in ccaa:
+    #print x[0].tag
+
+print prov
 
 ##########################################################
 #                                                        #
