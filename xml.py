@@ -178,12 +178,27 @@ Curvas peligrosas\n%i Puntos negros\n%i Puntos de radar camuflados\n\
 #                                                        #
 ##########################################################
 
-while True:
-    concretar = raw_input("¿Desea concretar una población? s-n: ")
-    print "\n"
-    if concretar == "y" or concretar == "Y":
-        contador = -1
-        for pobl in peninsularoot[elec][elec2]:
-            contador = contador + 1
-            print str(contador) + " " + pobl.text
-            break
+
+contador = -1
+for pobl in peninsularoot[elec][elec2]:
+    contador = contador + 1
+    print str(contador) + " " + pobl.text
+
+concretar = raw_input("¿Selecione una población")
+
+
+##########################################################
+#                                                        #
+#                Configuración Openlayers                #
+#                                                        #
+##########################################################
+
+
+with open("./OPENLAYERS/sources/source", "r") as openbody:
+    openbodyr = openbody.readlines()
+
+with open("./OPENLAYERS/sources/config", "r") as openconfig:
+    openconfigr = openconfig.readlines()
+
+print openbodyr
+print openconfigr
