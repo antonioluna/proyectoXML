@@ -31,6 +31,7 @@ def iguales(valor):
         .replace(",0", '').split(","))
     return diccionario
 
+
 #Función que extrae las coordenadas de las poblaciones
 def gtroot(ruta, ruta2, ruta3):
     pob = []
@@ -45,9 +46,6 @@ def gtroot(ruta, ruta2, ruta3):
         lon.append(z.text)
     for w in range(len(pob)):
         valores[pob[w]] = [lat[w], lon[w]]
-    #print len(pob)
-    #print len(coord)
-    #print len(valores)
     return valores
 
 
@@ -95,8 +93,8 @@ with open("./DATA/PENINSULA.xml", "r") as peninsula:
 
 #poblaciones = {comunidad:{provincia:{poblacion:[lat,lon]}}}
 
-print gtroot("CCAA/PROVINCIA/POBLACION", "CCAA/PROVINCIA/POBLACION/LATITUD",
-     "CCAA/PROVINCIA/POBLACION/LONGITUD")
+#print gtroot("CCAA/PROVINCIA/POBLACION", "CCAA/PROVINCIA/POBLACION/LATITUD",
+     #"CCAA/PROVINCIA/POBLACION/LONGITUD")
 
 
 ##########################################################
@@ -110,6 +108,29 @@ dicurvas = iguales(curvasroot)
 dicnegro = iguales(negrosroot)
 dicamu = distintos(camufladosroot)
 dicfijo = distintos(fijosroot)
+comun = peninsularoot.findall("CCAA")
+
+##########################################################
+#                                                        #
+#                   Menú principal                       #
+#                                                        #
+##########################################################
+
+
+print "Bienvenido a mi proyecto de XML\n"
+
+contador = -1
+for com in comun:
+    contador = contador + 1
+    print str(contador) + " " + com.text
+
+#elec = raw_input("\nPor favor, elija una comunidad Atónoma: ")
+
+elec2 = int(raw_input("\nAhora, seleccione la provincia: "))
+
+for prov in peninsularoot[elec2]:
+    print prov.text
+
 
 #for z in dicohol:
     #print max(dicohol[z])
