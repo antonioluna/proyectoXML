@@ -49,6 +49,18 @@ def gtroot(ruta, ruta2, ruta3):
     return valores
 
 
+#Función que calcula los límites de una provincia
+def limites_provincia(nump):
+    latp = []
+    lonp = []
+    for pueb in peninsularoot[nump][0]:
+        if pueb.text in pueblos:
+            latp.append(pueblos[pueb.text][0])
+            lonp.append(pueblos[pueb.text][1])
+    limites = [max(latp), min(latp), max(lonp), min(lonp)]
+    return limites
+
+
 ##########################################################
 #                                                        #
 #         Abrimos los ficheros con los datos             #
@@ -91,9 +103,8 @@ with open("./DATA/PENINSULA.xml", "r") as peninsula:
 #                                                        #
 ##########################################################
 
-#poblaciones = {comunidad:{provincia:{poblacion:[lat,lon]}}}
 
-pueblo = gtroot("CCAA/PROVINCIA/POBLACION", "CCAA/PROVINCIA/POBLACION/LATITUD",
+pueblos = gtroot("CCAA/PROVINCIA/POBLACION", "CCAA/PROVINCIA/POBLACION/LATITUD",
      "CCAA/PROVINCIA/POBLACION/LONGITUD")
 
 
@@ -133,6 +144,8 @@ for prov in peninsularoot[elec]:
 
 elec2 = int(raw_input("\nAhora, seleccione el número de provincia: "))
 
+limit = limites_provincia(elec)
+
 print 'En la provincia de %s hay:\ni Puntos de controles de alcoholemia\ni \
 Puntos negros\ni Puntos de radar camuflados\ni Radares fijos\n'\
  % (peninsularoot[elec].text)
@@ -141,8 +154,6 @@ contador = -1
 for pobl in peninsularoot[elec][elec2]:
     contador = contador + 1
     print str(contador) + " " + pobl.text
-
-
 
 #for z in dicohol:
     #print max(dicohol[z])
