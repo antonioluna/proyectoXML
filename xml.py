@@ -50,10 +50,10 @@ def gtroot(ruta, ruta2, ruta3):
 
 
 #Función que calcula los límites de una provincia
-def limites_provincia(nump):
+def limites_provincia(nump, nump2):
     latp = []
     lonp = []
-    for pueb in peninsularoot[nump][0]:
+    for pueb in peninsularoot[nump][nump2]:
         if pueb.text in pueblos:
             latp.append(pueblos[pueb.text][0])
             lonp.append(pueblos[pueb.text][1])
@@ -151,11 +151,12 @@ for prov in peninsularoot[elec]:
 
 elec2 = int(raw_input("\nAhora, seleccione el número de provincia: "))
 
-limit = limites_provincia(elec)
 
 print 'En la provincia de %s hay:\ni Puntos de controles de alcoholemia\ni \
 Puntos negros\ni Puntos de radar camuflados\ni Radares fijos\n'\
  % (peninsularoot[elec].text)
+
+limit = limites_provincia(elec, elec2)
 
 contador = -1
 for pobl in peninsularoot[elec][elec2]:
@@ -166,5 +167,3 @@ for pobl in peninsularoot[elec][elec2]:
 #cantidad_pois(dicfijo)
 
 print limit
-
-print pueblos
