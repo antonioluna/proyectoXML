@@ -93,8 +93,8 @@ with open("./DATA/PENINSULA.xml", "r") as peninsula:
 
 #poblaciones = {comunidad:{provincia:{poblacion:[lat,lon]}}}
 
-#print gtroot("CCAA/PROVINCIA/POBLACION", "CCAA/PROVINCIA/POBLACION/LATITUD",
-     #"CCAA/PROVINCIA/POBLACION/LONGITUD")
+pueblo = gtroot("CCAA/PROVINCIA/POBLACION", "CCAA/PROVINCIA/POBLACION/LATITUD",
+     "CCAA/PROVINCIA/POBLACION/LONGITUD")
 
 
 ##########################################################
@@ -124,12 +124,24 @@ for com in comun:
     contador = contador + 1
     print str(contador) + " " + com.text
 
-#elec = raw_input("\nPor favor, elija una comunidad Atónoma: ")
+elec = int(raw_input("\nPor favor, elija el número de comunidad Atónoma: "))
 
-elec2 = int(raw_input("\nAhora, seleccione la provincia: "))
+contador = -1
+for prov in peninsularoot[elec]:
+    contador = contador + 1
+    print str(contador) + " " + prov.text
 
-for prov in peninsularoot[elec2]:
-    print prov.text
+elec2 = int(raw_input("\nAhora, seleccione el número de provincia: "))
+
+print 'En la provincia de %s hay:\ni Puntos de controles de alcoholemia\ni \
+Puntos negros\ni Puntos de radar camuflados\ni Radares fijos\n'\
+ % (peninsularoot[elec].text)
+
+contador = -1
+for pobl in peninsularoot[elec][elec2]:
+    contador = contador + 1
+    print str(contador) + " " + pobl.text
+
 
 
 #for z in dicohol:
