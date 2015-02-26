@@ -64,7 +64,7 @@ with open("./DATA/radares-fijos.xml", "r")as fijos:
 #                                                        #
 ##########################################################
 
-with open("./DATA/PENINSULA.xml", "r")as peninsula:
+with open("./DATA/PENINSULA.xml", "r") as peninsula:
     peninsular = etree.parse(peninsula)
     peninsularoot = peninsular.getroot()
 
@@ -76,14 +76,21 @@ with open("./DATA/PENINSULA.xml", "r")as peninsula:
 
 #poblaciones = {comunidad:{provincia:{poblacion:[lat,lon]}}}
 
+comunidades = {}
 provincias = {}
-ccaa = peninsularoot.findall("CCAA")
-prov = ccaa.getchildren()
+poblaciones = {}
 
-#for x in ccaa:
-    #print x[0].tag
+#for x in peninsularoot.findall("CCAA/"):
+    #print x.text
 
-print prov
+#for y in peninsularoot:
+    #print y.text
+
+#for z in peninsularoot.findall("CCAA/PROVINCIA/POBLACION"):
+    #print z.text
+
+for o in peninsularoot.findall("CCAA/PROVINCIA/POBLACION/"):
+    print o
 
 ##########################################################
 #                                                        #
