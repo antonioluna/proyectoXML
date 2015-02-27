@@ -50,6 +50,7 @@ def gtroot(ruta, ruta2, ruta3):
 
 
 #Función que calcula los límites de una provincia
+
 def limites_provincia(nump, nump2):
     latp = []
     lonp = []
@@ -61,6 +62,8 @@ def limites_provincia(nump, nump2):
     return limites
 
 
+#Esta función devuelve la cantidad de puntos en una provincia
+
 def cantidad_pois(xml):
     pois = {}
     for poi in xml:
@@ -68,6 +71,15 @@ def cantidad_pois(xml):
          and xml[poi][0] <= limit[2] and xml[poi][0] >= limit[3]:
             pois[poi] = [xml[poi][1], xml[poi][0]]
     return pois
+
+
+#Esta función añade al archivo de configuración de openlayers los pois
+
+def openconf(dicpois, titulo, icono):
+    #lt.ltltltl\tl.olololo\ttitle\tdescription\tname.png\t24,24\t0,0
+    for pu in dicpois:
+        openconfigr.append(str(dicpois[pu][0]) + "\t" + str(dicpois[pu][1])
+        + "\t" + titulo + "\t" + pu + "\t" + icono + "\t24,24\t0,0")
 
 
 ##########################################################
@@ -184,7 +196,7 @@ for pobl in peninsularoot[elec][elec2]:
     contador = contador + 1
     print str(contador) + " " + pobl.text
 
-concretar = int(raw_input("¿Selecione una población: "))
+concretar = int(raw_input("\n¿Selecione una población: "))
 
 
 ##########################################################
@@ -201,7 +213,21 @@ with open("./OPENLAYERS/sources/source", "r") as openbody:
 with open("./OPENLAYERS/sources/config", "r") as openconfig:
     openconfigr = openconfig.readlines()
 
-print openbodyr
-#print openconfigr
+open_ctrl = ["alco.png", "CONTROL DE ALCOHOLEMIA"]
+open_negro = ["blkpnt.png", "PUNTO NEGRO"]
+open_camu = ["camu.png", "RADAR CAMUFLADO"]
+open_curvas = ["curv.png", "CURVA PELIGROSA"]
+open_fijo = ["fijo.png", "RADAR FIJO"]
 
-#.replace("l.olol", pueblos[peninsularoot[elec][elec2][concretar].text[1]])
+openconf(cant_control, open_ctrl[1], open_ctrl[0])
+openconf(cant_curvas, open_negro[1], open_negro[0])
+openconf(cant_pnegros, open_camu[1], open_camu[0])
+openconf(cant_camu, open_curvas[1], open_curvas[0])
+openconf(cant_rfijos, open_fijo[1], open_fijo[0])
+
+
+##########################################################
+#                                                        #
+#                Exportación al navegador                #
+#                                                        #
+##########################################################
