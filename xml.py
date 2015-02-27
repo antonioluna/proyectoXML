@@ -184,7 +184,7 @@ for pobl in peninsularoot[elec][elec2]:
     contador = contador + 1
     print str(contador) + " " + pobl.text
 
-concretar = raw_input("¿Selecione una población")
+concretar = int(raw_input("¿Selecione una población: "))
 
 
 ##########################################################
@@ -195,10 +195,13 @@ concretar = raw_input("¿Selecione una población")
 
 
 with open("./OPENLAYERS/sources/source", "r") as openbody:
-    openbodyr = openbody.readlines()
-
+    openbodyr = openbody.read().replace("l.olol", str(pueblos
+    [peninsularoot[elec][elec2][concretar].text][1])).replace("lt.ltlt",
+    str(pueblos[peninsularoot[elec][elec2][concretar].text][0]))
 with open("./OPENLAYERS/sources/config", "r") as openconfig:
     openconfigr = openconfig.readlines()
 
 print openbodyr
-print openconfigr
+#print openconfigr
+
+#.replace("l.olol", pueblos[peninsularoot[elec][elec2][concretar].text[1]])
