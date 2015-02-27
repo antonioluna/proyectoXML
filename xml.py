@@ -2,7 +2,6 @@
 
 from lxml import etree
 import webbrowser
-import os
 from commands import getoutput
 
 
