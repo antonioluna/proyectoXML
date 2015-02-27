@@ -1,6 +1,9 @@
 #-*- coding: utf-8 -*-
 
 from lxml import etree
+import webbrowser
+import os
+from commands import getoutput
 
 
 ##########################################################
@@ -76,10 +79,13 @@ def cantidad_pois(xml):
 #Esta función añade al archivo de configuración de openlayers los pois
 
 def openconf(dicpois, titulo, icono):
+    anadir = ""
     #lt.ltltltl\tl.olololo\ttitle\tdescription\tname.png\t24,24\t0,0
     for pu in dicpois:
-        openconfigr.append(str(dicpois[pu][0]) + "\t" + str(dicpois[pu][1])
-        + "\t" + titulo + "\t" + pu + "\t" + icono + "\t24,24\t0,0")
+        anadir = anadir + str(dicpois[pu][0]) + "\t" + str(dicpois[pu][1])\
+        + "\t" + titulo + "\t" + pu + "\t" + icono + "\t24,24\t0,0\n"
+        anadir.replace(" ", "")
+    return anadir
 
 
 ##########################################################
@@ -175,17 +181,6 @@ cant_rfijos = cantidad_pois(dicfijo)
 
 ##########################################################
 #                                                        #
-#          Impresion en pantalla de cantidades           #
-#                                                        #
-##########################################################
-
-print 'En la provincia de %s hay:\n%i Puntos de controles de alcoholemia\n%i \
-Curvas peligrosas\n%i Puntos negros\n%i Puntos de radar camuflados\n\
-%i Radares fijos\n' % (peninsularoot[elec][elec2].text, len(cant_control),
-    len(cant_curvas), len(cant_pnegros), len(cant_camu), len(cant_rfijos))
-
-##########################################################
-#                                                        #
 #                Concretar población                     #
 #                                                        #
 ##########################################################
@@ -197,6 +192,17 @@ for pobl in peninsularoot[elec][elec2]:
     print str(contador) + " " + pobl.text
 
 concretar = int(raw_input("\n¿Selecione una población: "))
+
+##########################################################
+#                                                        #
+#          Impresion en pantalla de cantidades           #
+#                                                        #
+##########################################################
+
+print 'En la provincia de %s hay:\n%i Puntos de controles de alcoholemia\n%i \
+Curvas peligrosas\n%i Puntos negros\n%i Puntos de radar camuflados\n\
+%i Radares fijos\n' % (peninsularoot[elec][elec2].text, len(cant_control),
+    len(cant_curvas), len(cant_pnegros), len(cant_camu), len(cant_rfijos))
 
 
 ##########################################################
@@ -211,7 +217,7 @@ with open("./OPENLAYERS/sources/source", "r") as openbody:
     [peninsularoot[elec][elec2][concretar].text][1])).replace("lt.ltlt",
     str(pueblos[peninsularoot[elec][elec2][concretar].text][0]))
 with open("./OPENLAYERS/sources/config", "r") as openconfig:
-    openconfigr = openconfig.readlines()
+    openconfigr = openconfig.read()
 
 open_ctrl = ["alco.png", "CONTROL DE ALCOHOLEMIA"]
 open_negro = ["blkpnt.png", "PUNTO NEGRO"]
@@ -219,11 +225,11 @@ open_camu = ["camu.png", "RADAR CAMUFLADO"]
 open_curvas = ["curv.png", "CURVA PELIGROSA"]
 open_fijo = ["fijo.png", "RADAR FIJO"]
 
-openconf(cant_control, open_ctrl[1], open_ctrl[0])
-openconf(cant_curvas, open_negro[1], open_negro[0])
-openconf(cant_pnegros, open_camu[1], open_camu[0])
-openconf(cant_camu, open_curvas[1], open_curvas[0])
-openconf(cant_rfijos, open_fijo[1], open_fijo[0])
+ct = openconf(cant_control, open_ctrl[1], open_ctrl[0])
+cv = openconf(cant_curvas, open_curvas[1], open_curvas[0])
+ne = openconf(cant_pnegros, open_negro[1], open_negro[0])
+camu = openconf(cant_camu, open_camu[1], open_camu[0])
+fijo = openconf(cant_rfijos, open_fijo[1], open_fijo[0])
 
 
 ##########################################################
@@ -231,3 +237,18 @@ openconf(cant_rfijos, open_fijo[1], open_fijo[0])
 #                Exportación al navegador                #
 #                                                        #
 ##########################################################
+
+with open("./OPENLAYERS/ficheros/index.html", "w") as index:
+    index.writelines(openbodyr)
+
+with open("./OPENLAYERS/ficheros/textfile.txt", "w") as textfile:
+    textfile.write((openconfigr + ct + cv + ne + camu + fijo).encode("utf-8"))
+
+navegador = raw_input('\nPulse "n" para abrir los POIs en el navegador.Esta\
+función sólo es compatible con navegadores Mozilla: ')
+
+if navegador == "n" or navegador == "N":
+    webbrowser.open(getoutput("pwd") +
+    "/OPENLAYERS/ficheros/index.html")
+else:
+    print "\n\nAdios\n\n"
